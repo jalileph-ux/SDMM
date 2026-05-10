@@ -11,5 +11,5 @@ La gestion de la maintenance des équipements médicaux est une fonction straté
 * Sécurité des patients : Un équipement mal entretenu peut entraîner des diagnostics erronés ou des accidents.
 * Optimisation des coûts : Planifier la maintenance pour éviter des réparations d'urgence coûteuses et optimiser les investissements sur le long terme
 
-# Le rôle du personnel biomédicalLes 
-techniciens biomédicaux et ingénieurs assurent l'installation, la maintenance et la formation du personnel soignant à l'utilisation des équipements. Ce personnel est formé via des cursus spécialisés  
+# Le rôle du personnel biomédical
+Les techniciens biomédicaux et ingénieurs assurent l'installation, la maintenance et la formation du personnel soignant à l'utilisation des équipements. Ce personnel est formé via des cursus spécialisés  
